@@ -1,0 +1,4 @@
+07:14:20.784 [main] INFO  swordrisk.Testbase - driver initialized
+07:14:25.474 [main] INFO  swordrisk.Testbase - Navigated to blog page
+07:14:27.141 [main] INFO  swordrisk.Testbase - navigated to month blog page
+07:14:27.170 [main] INFO  swordrisk.Testbase - The blog posts count matches with the number of blogs on the page
